@@ -1,0 +1,52 @@
+{
+  "main_page_title": "Holidays calendar in 2021",
+  "main_page_country": "Republic of North Macedonia",
+
+  "header_intro_text_1": "was a year with 9 extended weekends. But the covid-19 pandemic prevented us from truly enjoying our free days.",
+  "header_intro_text_2": "2021 also promises extended holiday weekends and days off in the middle of the working week.",
+  "header_intro_text_2_bold": "6 extended weekends",
+  "header_intro_text_2_rest": "ideal to rest and travel.",
+  "header_intro_text_3": "How many non-working days, extended weekends and holidays will we have in 2021? See on the calendar below.",
+
+  "calendar_block_title_1": "Calendar color codes",
+  "calendar_block_title_2": "Notes",
+  "calendar_list_item_1": "Official Federal/National Holidays and non-working days for all citizens",
+  "calendar_list_item_2": "Religious Holidays for Orthodox citizens",
+  "calendar_list_item_3": "Holidays for citizens of other communities",
+  "calendar_list_item_4": "If the Holidays marked with",
+  "calendar_list_item_4_1": "are on Sunday, the day after is the",
+  "calendar_list_item_4_2": "non-working day",
+  "calendar_list_item_5": "If the Holidays marked with",
+  "calendar_list_item_5_1": "and",
+  "calendar_list_item_5_2": "are on Sunday, the day after is the",
+  "calendar_list_item_5_3": "working day",
+  "calendar_anchor_title_1": "View a full list of all the Holidays",
+  "calendar_anchor_title_2": "Download Calendar in PDF",
+
+  "calendar_weekdays_mon": "Mon",
+  "calendar_weekdays_tue": "Tue",
+  "calendar_weekdays_wed": "Wed",
+  "calendar_weekdays_thu": "Thu",
+  "calendar_weekdays_fri": "Fri",
+  "calendar_weekdays_sat": "Sat",
+  "calendar_weekdays_sun": "Sun",
+
+  "calendar_monthNames_jan": "January",
+  "calendar_monthNames_feb": "February",
+  "calendar_monthNames_mar": "March",
+  "calendar_monthNames_apr": "April",
+  "calendar_monthNames_may": "May",
+  "calendar_monthNames_jun": "June",
+  "calendar_monthNames_jul": "July",
+  "calendar_monthNames_aug": "August",
+  "calendar_monthNames_sep": "September",
+  "calendar_monthNames_oct": "October",
+  "calendar_monthNames_nov": "November",
+  "calendar_monthNames_dec": "December",
+
+  "anchor_down_title": "Scroll to Calendar",
+
+  "footer_text_1": "Share the calendar with your friends",
+  "footer_text_2": "Copyright",
+  "footer_text_3": "All rights reserved"
+}

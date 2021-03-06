@@ -1,0 +1,52 @@
+{
+  "main_page_title": "Kalendari i festave në vitin 2021",
+  "main_page_country": "Republika e Maqedonisë së Veriut",
+
+  "header_intro_text_1": "ishte një vit me 9 fundjava të zgjatura. Por covid-19 pandemia na pengoi të shijonim vërtet ditët tona të lira.",
+  "header_intro_text_2": "2021 premton gjithashtu fundjavë pushimesh të zgjatura dhe ditë pushimi në mes të javës së punës.",
+  "header_intro_text_2_bold": "6 fundjava të zgjatura",
+  "header_intro_text_2_rest": "ideal për të pushuar dhe udhëtuar.",
+  "header_intro_text_3": "Sa ditë jo pune, fundjava dhe pushime të zgjatura do të kemi në 2021? Shikoni në kalendarin më poshtë. ",
+
+  "calendar_block_title_1": "Kodet e ngjyrave të kalendarit",
+  "calendar_block_title_2": "Shënime",
+  "calendar_list_item_1": "Pushime Kombëtare dhe ditë jo pune për të gjithë qytetarët",
+  "calendar_list_item_2": "Pushime fetare për qytetarët ortodoksë",
+  "calendar_list_item_3": "Pushime për qytetarët e komuniteteve të tjera",
+  "calendar_list_item_4": "Nëse Festat e shënuara me",
+  "calendar_list_item_4_1": "janë të dielën, një ditë pas është",
+  "calendar_list_item_4_2": "dite jo pune",
+  "calendar_list_item_5": "Nëse Festat e shënuara me",
+  "calendar_list_item_5_1": "dhe",
+  "calendar_list_item_5_2": "janë të dielën, një ditë pas është",
+  "calendar_list_item_5_3": "ditë pune",
+  "calendar_anchor_title_1": "Shikoni një listë të plotë të të gjitha Festave",
+  "calendar_anchor_title_2": "Shkarkoni Kalendarin në PDF",
+
+  "calendar_weekdays_mon": "Hën",
+  "calendar_weekdays_tue": "Mar",
+  "calendar_weekdays_wed": "Mër",
+  "calendar_weekdays_thu": "Enj",
+  "calendar_weekdays_fri": "Pre",
+  "calendar_weekdays_sat": "Sht",
+  "calendar_weekdays_sun": "Die",
+
+  "calendar_monthNames_jan": "Janar",
+  "calendar_monthNames_feb": "Shkurt",
+  "calendar_monthNames_mar": "Marsh",
+  "calendar_monthNames_apr": "Prill",
+  "calendar_monthNames_may": "Mund",
+  "calendar_monthNames_jun": "Qershor",
+  "calendar_monthNames_jul": "Korrik",
+  "calendar_monthNames_aug": "Gusht",
+  "calendar_monthNames_sep": "Shtator",
+  "calendar_monthNames_oct": "Tetor",
+  "calendar_monthNames_nov": "Nëntori",
+  "calendar_monthNames_dec": "Dhjetor",
+
+  "anchor_down_title": "Shkoni te Kalendari",
+
+  "footer_text_1": "Ndani kalendarin me miqtë tuaj",
+  "footer_text_2": "copyright",
+  "footer_text_3": "Te gjitha te drejtat e rezervuara"
+}

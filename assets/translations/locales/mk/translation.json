@@ -1,0 +1,52 @@
+{
+  "main_page_title": "Календар со празници во 2021",
+  "main_page_country": "Република Северна Македонија",
+
+  "header_intro_text_1": "беше година со 9 продолжени викенди. Но, ковид-19 пандемијата нè спречи вистински да уживаме во слободните денови.",
+  "header_intro_text_2": "И 2021 - ва ветува долги празнични викенди и денови за одмор среде работна недела.",
+  "header_intro_text_2_bold": "6 продолжени викенди",
+  "header_intro_text_2_rest": "идеални за одмор и патување.",
+  "header_intro_text_3": "Колку неработни денови, продолжени викенди и празници ќе имаме во 2021? Видете на календарот подоле.",
+
+  "calendar_block_title_1": "Бои во календарот",
+  "calendar_block_title_2": "Напомена",
+  "calendar_list_item_1": "Државни Празници за сите граѓани",
+  "calendar_list_item_2": "Празници за граѓаните од православна вероисповест",
+  "calendar_list_item_3": "Празници за други националности",
+  "calendar_list_item_4": "Доколку празниците означени со",
+  "calendar_list_item_4_1": "се во недела, денот после нив е",
+  "calendar_list_item_4_2": "неработен ден",
+  "calendar_list_item_5": "Доколку празниците означени со",
+  "calendar_list_item_5_1": "и",
+  "calendar_list_item_5_2": "се во недела, денот после нив е",
+  "calendar_list_item_5_3": "работен ден",
+  "calendar_anchor_title_1": "Прикажи листа со сите празници",
+  "calendar_anchor_title_2": "Превземи го календарот во PDF",
+
+  "calendar_weekdays_mon": "Пон",
+  "calendar_weekdays_tue": "Вто",
+  "calendar_weekdays_wed": "Сре",
+  "calendar_weekdays_thu": "Чет",
+  "calendar_weekdays_fri": "Пет",
+  "calendar_weekdays_sat": "Саб",
+  "calendar_weekdays_sun": "Нед",
+
+  "calendar_monthNames_jan": "Јануари",
+  "calendar_monthNames_feb": "Февруари",
+  "calendar_monthNames_mar": "Март",
+  "calendar_monthNames_apr": "Април",
+  "calendar_monthNames_may": "Мај",
+  "calendar_monthNames_jun": "Јуни",
+  "calendar_monthNames_jul": "Јули",
+  "calendar_monthNames_aug": "Август",
+  "calendar_monthNames_sep": "Септември",
+  "calendar_monthNames_oct": "Октомври",
+  "calendar_monthNames_nov": "Ноември",
+  "calendar_monthNames_dec": "Декември",
+
+  "anchor_down_title": "Надолу кон календар",
+
+  "footer_text_1": "Споделете го календарот со пријателите:",
+  "footer_text_2": "copyright",
+  "footer_text_3": "Сите права задржани"
+}
